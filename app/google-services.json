@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517645239116",
+    "project_id": "infiniti-festival",
+    "storage_bucket": "infiniti-festival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517645239116:android:3a2f2b9a59411dcb3cc5e9",
+        "android_client_info": {
+          "package_name": "com.infiniti.festival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517645239116-mnt5322bitemaoj8p31olpq6a5tk8fn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2UlVaFYPfOp3OHCXcGkJoQptgCNrjlDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517645239116-mnt5322bitemaoj8p31olpq6a5tk8fn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
